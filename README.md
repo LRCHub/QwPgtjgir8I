@@ -1,0 +1,53 @@
+# Daniel Caesar – Get You
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Through drought and famine,
+natural disasters
+My baby has been around for me
+Kingdoms have fallen,
+angels be calling
+None of that could ever
+make me leave
+Every time I look into your eyes
+I see it
+You're all I need
+Every time I get a bit inside
+I feel it
+Oooooooh,
+who would've thought I'd get you
+Oooooooh,
+who would've thought I'd get you
+And when we're making love
+Your cries they can be heard
+from far and wide
+It's only the two of us
+Everything I need's
+between those thighs
+Every time I look into your eyes
+I see it
+You're all I need
+Every time I get a bit inside
+I feel it
+Oooooooh,
+who would've thought I'd get you
+(oh yeah, oh yeah babe)
+Oooooooh,
+who would've thought I'd get you
+And I’ll take some time
+Just to be thankful
+That I had days full of you, you
+Before it winds down into
+The memories,
+it’s all just memories
+La-la-la-la-la
+Oooooooh,
+who could've thought I'd get you
+Oooooooh,
+who could've thought I'd get you
+This feels like summer
+Boy you make me feel so alive
+Just be my lover
+Boy you'll lead me to paradise
+```
