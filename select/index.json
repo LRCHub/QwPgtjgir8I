@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "Get You",
+  "base_artist": "Daniel Caesar",
+  "createdAt": "2026-02-25T17:13:33.341046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Gonna Get You",
+      "artist": "Eddy Raven",
+      "has_synced": true,
+      "path": "select/01_I'm_Gonna_Get_You_Eddy_Raven.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "That'll Get You Ten",
+      "artist": "Jeff Bates",
+      "has_synced": false,
+      "path": "select/02_That'll_Get_You_Ten_Jeff_Bates.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's Coming to Get You",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/03_It's_Coming_to_Get_You_YACHT.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sometimes I Don’t Get You",
+      "artist": "Yo La Tengo",
+      "has_synced": false,
+      "path": "select/04_Sometimes_I_Don’t_Get_You_Yo_La_Tengo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Gonna Get You (Original Flavour mix)",
+      "artist": "Bizarre Inc.",
+      "has_synced": false,
+      "path": "select/05_I'm_Gonna_Get_You_(Original_Flavour_mix)_Bizarre_Inc..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Out To Get You",
+      "artist": "James",
+      "has_synced": true,
+      "path": "select/06_Out_To_Get_You_James.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Got to Get You Into My Life",
+      "artist": "Cliff Bennett & The Rebel Rousers",
+      "has_synced": true,
+      "path": "select/07_Got_to_Get_You_Into_My_Life_Cliff_Bennett_&_The_Rebel_Rousers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Got To Get You Into My Life",
+      "artist": "Cliff Bennett And The Rebel Rousers",
+      "has_synced": true,
+      "path": "select/08_Got_To_Get_You_Into_My_Life_Cliff_Bennett_And_The_Rebel_Rousers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Get You Mad",
+      "artist": "Eminem feat. Sway & King Tech",
+      "has_synced": true,
+      "path": "select/09_Get_You_Mad_Eminem_feat._Sway_&_King_Tech.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Get You Mad",
+      "artist": "Sway & King Tech feat. Eminem",
+      "has_synced": true,
+      "path": "select/10_Get_You_Mad_Sway_&_King_Tech_feat._Eminem.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "God Won't Get You",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/11_God_Won't_Get_You_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Gotta Get You a Woman - 2015 Remaster",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/12_We_Gotta_Get_You_a_Woman_-_2015_Remaster_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Gotta Get You A Woman",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/13_We_Gotta_Get_You_A_Woman_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Let It Get You Down",
+      "artist": "Modern Talking",
+      "has_synced": false,
+      "path": "select/14_Don't_Let_It_Get_You_Down_Modern_Talking.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Let It Get You Down",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/15_Don't_Let_It_Get_You_Down_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Let It Get You Down",
+      "artist": "Fine Young Cannibals",
+      "has_synced": false,
+      "path": "select/16_Don't_Let_It_Get_You_Down_Fine_Young_Cannibals.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "What You See Is What You Get",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/17_What_You_See_Is_What_You_Get_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "What If I Never Get Over You",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/18_What_If_I_Never_Get_Over_You_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "What If I Never Get Over You",
+      "artist": "Lady A",
+      "has_synced": true,
+      "path": "select/19_What_If_I_Never_Get_Over_You_Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Get Out (Hansa Session)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/20_Get_Out_(Hansa_Session)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "'Til I Get It Right",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/21_'Til_I_Get_It_Right_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "By The Time I Get To Phoenix",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/22_By_The_Time_I_Get_To_Phoenix_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "By The Time I Get To Phoenix (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/23_By_The_Time_I_Get_To_Phoenix_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Can't Even Get The Blues No More",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/24_Can't_Even_Get_The_Blues_No_More_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Can't Even Get The Blues No More (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/25_Can't_Even_Get_The_Blues_No_More_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Don't Get Better Than That",
+      "artist": "Locash",
+      "has_synced": true,
+      "path": "select/26_Don't_Get_Better_Than_That_Locash.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Don't Get Me Started",
+      "artist": "Rhett Akins",
+      "has_synced": false,
+      "path": "select/27_Don't_Get_Me_Started_Rhett_Akins.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Don't Get Me Started (Album Version)",
+      "artist": "Rhett Akins",
+      "has_synced": false,
+      "path": "select/28_Don't_Get_Me_Started_(Album_Version)_Rhett_Akins.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Even Cowgirls Get the Blues",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/29_Even_Cowgirls_Get_the_Blues_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Even Cowgirls Get the Blues (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/30_Even_Cowgirls_Get_the_Blues_(Remastered_LP_Version)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Get A Dog",
+      "artist": "Catie Offerman",
+      "has_synced": true,
+      "path": "select/31_Get_A_Dog_Catie_Offerman.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Get After It",
+      "artist": "Clayton Anderson",
+      "has_synced": true,
+      "path": "select/32_Get_After_It_Clayton_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Get Along",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/33_Get_Along_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get You (feat. Kali Uchis)",
+      "artist": "Daniel Caesar",
+      "has_synced": false,
+      "path": "select/pl_01_Get_You_(feat._Kali_Uchis)_Daniel_Caesar.txt"
+    }
+  ]
+}
